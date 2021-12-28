@@ -1,10 +1,10 @@
-# portfolio1
+# portfolio
 
 This portfolio is small project using html css and bootstrap. I will be using this to showcase my project
 
 [live heroku deployment](https://rajathportfolio.herokuapp.com/)
 
-[screenshot]9![image](https://user-images.githubusercontent.com/96102470/147529832-f88a3969-cb3a-47dc-969d-46985c539c5e.png)
+[screenshot]Portfolio output![image](https://user-images.githubusercontent.com/96102470/147529832-f88a3969-cb3a-47dc-969d-46985c539c5e.png)
 
 ## Technologies used
 
